@@ -12,9 +12,9 @@ Some Finnish vocabulary to write down.
 
 > Note: when putting `lainen` at the end of a place, for instance `suomi` (Finland), it adds the fact of belonging to a place or a country with for instance `Suomalainen` which means `Finnish`.
 
- - Poista: (to) delete
+ - Poistaa: (to) delete
  - Luoteisväylä: [northwest passage](https://fi.wikipedia.org/wiki/Luoteisv%C3%A4yl%C3%A4)
- - Lähetä: (to) send
+ - Lähetää: (to) send
  - Tumma: dark
  - Vaalea: light
  - Salasana: password
