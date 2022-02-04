@@ -29,3 +29,10 @@ Some Finnish vocabulary to write down.
 
 > Note: adding `ja` at the end of `tiedosto` to make `tiedostoja` adds the plural form. For instance, `tiedosto` will be translated to `file` (singular) and `tiedostoja` will be translated to `files` (plural).
 > Note: According to @mikaela, the plural `ja` implies "there are". In the instance of files, `tiedostoja`, it implies "there is files" in difference of a more general plural form with `-t` with for instance, `tiedostot`.
+
+| Finnish | English |
+| ------- | ------- |
+| Kyllä | yes |
+| Ei | no |
+
+> Note: putting `ei` before something can add the negation to the said thing. For instance, `Mikään` which means `anything` and adding `ei` with `ei mikään` means `nothing`.
