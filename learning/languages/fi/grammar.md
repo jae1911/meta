@@ -44,3 +44,21 @@ Reciprocal pronouns:
 | ------- | ---- | ---------- | ---------- |
 | Toinen | plural | He rakastavat **toisiaan** | They love **each other** |
 | Toinen | dual | He rakastavat **toinen toistaan** | They love **one another**
+
+Indefinite pronouns:
+
+| Finnish | English |
+| ------- | ------- |
+| Joka | every, each |
+| Jokainen | every, everyone |
+| Joku | some, someone |
+| Jompikumpi | either one |
+| Jokin | some, something |
+| Kukin | each one |
+| Kumpikin | both |
+| Kukaan | anyone |
+| Ei kukaan | no one |
+| Kumpikaan | either one |
+| Ei kumpikaan | neither one |
+| Mikään | anything |
+| Ei mikään | nothing |
