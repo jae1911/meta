@@ -17,3 +17,9 @@ Some Finnish vocabulary to write down.
  - Lähetä: (to) send
  - Tumma: dark
  - Vaalea: light
+ - Salasana: password
+ - Viesti: message
+ - Tiedot: information
+ - Tiedosto: file
+
+> Note: adding `ja` at the end of `tiedosto` to make `tiedostoja` adds the plural form. For instance, `tiedosto` will be translated to `file` (singular) and `tiedostoja` will be translated to `files` (plural).
