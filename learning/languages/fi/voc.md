@@ -36,3 +36,9 @@ Some Finnish vocabulary to write down.
 | Ei | no |
 
 > Note: putting `ei` before something can add the negation to the said thing. For instance, `Mikään` which means `anything` and adding `ei` with `ei mikään` means `nothing`.
+
+| Finnish | English |
+| ------- | ------- |
+| Terve | hey |
+| Moikka | hello |
+| Tervetuola | welcome |
