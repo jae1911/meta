@@ -11,7 +11,7 @@ Some Finnish vocabulary to write down.
 | Suomi | Finland |
 | Suomalainen | Finnish/Finn |
 | Ranska | France |
-| Ranksalainen | French |
+| Ranskalainen | French |
 
 > Note: when putting `lainen` at the end of a place, for instance `suomi` (Finland), it adds the fact of belonging to a place or a country with for instance `Suomalainen` which means `Finnish`.
 
@@ -19,12 +19,12 @@ Some Finnish vocabulary to write down.
 | ------- | ------- |
 | Poistaa | (to) delete |
 | Luoteisväylä | [northwest passage](https://fi.wikipedia.org/wiki/Luoteisv%C3%A4yl%C3%A4) |
-| Lähetää | (to) send |
+| Lähettää | (to) send |
 | Tumma | dark |
 | Vaalea | light |
 | Salasana | password |
 | Viesti | message |
-| Tiedot | information |
+| Tieto | information |
 | Tiedosto | File |
 
 > Note: adding `ja` at the end of `tiedosto` to make `tiedostoja` adds the plural form. For instance, `tiedosto` will be translated to `file` (singular) and `tiedostoja` will be translated to `files` (plural).
@@ -41,6 +41,6 @@ Some Finnish vocabulary to write down.
 | ------- | ------- |
 | Terve | hey |
 | Moikka | hello |
-| Tervetuola | welcome |
+| Tervetuloa | welcome |
 | Tupla | double |
-| Asiat | thing |
+| Asiat | things |
