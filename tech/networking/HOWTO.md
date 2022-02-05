@@ -8,6 +8,16 @@ Greetings, this file describes what is an AS, how to get one and also how to con
 
 Before proceeding further, please knowledge that **the internet is not a game**, please do further research before requesting an AS.
 
+## BGP Daemons
+
+### Existing BGP daemons
+
+| Name | Language |
+| ---- | -------- |
+| [Bird](https://bird.network.cz/) | C |
+| [Quagga](https://www.quagga.net/) | C |
+| [FRRouting](https://frrouting.org/) | C |
+
 ## Client config
 
 > Note: as Wireguard is encrypted, it has been noted it can put strain on some servers and therefore limit the bandwidth. Another solution using [GENEVE](https://www.redhat.com/en/blog/what-geneve) is in the works.
