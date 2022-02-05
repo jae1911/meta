@@ -42,3 +42,5 @@ Some Finnish vocabulary to write down.
 | Terve | hey |
 | Moikka | hello |
 | Tervetuola | welcome |
+| Tupla | double |
+| Asiat | thing |
