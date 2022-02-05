@@ -7,16 +7,17 @@ The basic personal pronouns are:
 | Finnish | English | Note |
 | ------- | ------- | ---- |
 | Minä | I | / |
-| Sinä | you | / |
+| Sinä | you | singular/informal |
 | Hän | them | singular |
 | Me | we | / |
+| Te | you | plural/formal |
 | He | they | plural |
 
 Demonstrative pronouns are:
 
 | Finnish | English |
 | ------- | ------- |
-| Täma | this |
+| Tämä | this |
 | Tuo | that |
 | Se | it/that |
 | Nämä | these |
