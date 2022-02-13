@@ -2,6 +2,7 @@
 
 Some Finnish vocabulary to write down.
 
+## Words
 
 | Finnish | English |
 | ------- | ------- |
@@ -44,3 +45,15 @@ Some Finnish vocabulary to write down.
 | Tervetuloa | welcome |
 | Tupla | double |
 | Asiat | things |
+| Päivän | day |
+| Viikon | week |
+| Viikonlopun | weekend |
+
+---
+
+## Phrases
+
+| Finnish | English |
+| ------- | ------- |
+| Hyvä [päivän/viikon/viikonlopun] jatkoa | Have a nice (continuation of) day/week/weekend |
+| Hyvä viikonloppua | Have a nice weekend |
