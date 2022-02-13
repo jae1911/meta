@@ -45,9 +45,9 @@ Some Finnish vocabulary to write down.
 | Tervetuloa | welcome |
 | Tupla | double |
 | Asiat | things |
-| Päivän | day |
-| Viikon | week |
-| Viikonlopun | weekend |
+| Päivä | day |
+| Viiko | week |
+| Viikonloppu | weekend |
 
 ---
 
@@ -55,5 +55,5 @@ Some Finnish vocabulary to write down.
 
 | Finnish | English |
 | ------- | ------- |
-| Hyvä [päivän/viikon/viikonlopun] jatkoa | Have a nice (continuation of) day/week/weekend |
-| Hyvä viikonloppua | Have a nice weekend |
+| Hyvää [päivän/viikon/viikonlopun] jatkoa | Have a nice (continuation of) day/week/weekend |
+| Hyvää viikonloppua | Have a nice weekend |
