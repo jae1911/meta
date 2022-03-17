@@ -48,7 +48,7 @@ Here is a sample config for the Wireguard client:
 [Interface]
 Address = 89.46.97.1/32, 2001:67c:2724:e001:a::1/128
 PrivateKey = privkey=
-DNS = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001
+DNS = 185.222.222.222, 45.11.45.11, 2a09::, 2a11::
 
 [Peer]
 PublicKey = pubkey=
